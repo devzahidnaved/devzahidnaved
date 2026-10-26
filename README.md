@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Zahidur Rahman</h1>
+<img src="https://i.ibb.co.com/Y71fJvRN/Gemini-Generated-Image-91g37r91g37r91g3.jpg" alt="Professional web developer" border="0">
 <h3 align="center">Professional Web Developer, Web Designer & WordPress Expert | Passionate on Digital views making reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devzahidnaved&label=Profile%20views&color=0e75b6&style=flat" alt="devzahidnaved" /> </p>
